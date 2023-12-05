@@ -26,7 +26,6 @@ Before using this project, ensure you have the following installed:
    ```
 
 2. **Database Configuration:**
-   - Create a MySQL database named `loginsystemdb`.
    - Update the database connection details in `partials/_dbconnect.php` if needed.
 
 3. **Access the Project:**
@@ -49,3 +48,5 @@ Before using this project, ensure you have the following installed:
    - Once logged in, you can explore protected pages or customize the project based on your requirements.
 4. **Logout:**
     - To log out, click the "Logout" link or button. This will destroy the current session and redirect you to the login page.
+****
+*Database and the tables required will be created automatically when you run the project*
